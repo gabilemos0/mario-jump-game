@@ -1,5 +1,5 @@
 <h1 align="center">
-Super Mario - Jumping Game 
+Super Mario - Jumping Game 🍄
 </h1>
 
 <p align="center">Criado um jogo do super mario de pulo para fins de aprendizado usando HTML, CSS and JS. </p>
