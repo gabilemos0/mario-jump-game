@@ -35,7 +35,7 @@ function updateJumpCounter(newValue) {
   if (jumpCounter === 0) {
     levelCounter = 1
     level.innerHTML = levelCounter
-  } else if (jumpCounter % 2 === 0) {
+  } else if (jumpCounter % 10 === 0) {
     levelUpSound.play()
     levelCounter = levelCounter + 1
 
